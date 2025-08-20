@@ -27,7 +27,8 @@ The primary aim was to create **interactive Power BI dashboards** that enable th
 - Tenure-based Customer Segmentation  
 
 📊 *Dashboard Snapshot:*  
-<img width="1001" height="565" alt="Cust" src="https://github.com/user-attachments/assets/da80b47b-02c2-402f-8371-b1d2ff8db4fc" />
+<img width="1001" height="565" alt="Cust" src="https://github.com/user-attachments/assets/b10a4898-9845-44ec-82b9-56e94a120ab0" />
+
   
 
 ---
@@ -39,7 +40,8 @@ The primary aim was to create **interactive Power BI dashboards** that enable th
 - Average Balance by Number of Products  
 
 📊 *Dashboard Snapshot:*  
-<img width="999" height="565" alt="product" src="https://github.com/user-attachments/assets/d0af0a2b-f6a2-4f48-acff-92e976058817" />
+<img width="999" height="565" alt="product" src="https://github.com/user-attachments/assets/3057f254-8fc3-4941-95d5-c8b355231e1b" />
+
   
 
 ---
@@ -51,7 +53,7 @@ The primary aim was to create **interactive Power BI dashboards** that enable th
 - Churn Rate by Salary & Tenure  
 
 📊 *Dashboard Snapshot:*  
-<img width="997" height="561" alt="Churn" src="https://github.com/user-attachments/assets/569dfca4-77f9-4afa-91d0-7c6a0d5ffdd8" />  
+<img width="997" height="561" alt="Churn" src="https://github.com/user-attachments/assets/2444ea30-348f-4be4-b70f-688c8c5ebfa8" />
 
 ---
 
